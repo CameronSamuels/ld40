@@ -34,7 +34,7 @@ who happened to be only able to cook burgers (even for breakfast).
 
 ## Links
 [Game (web)](https://cameronsamuels.com/ld40) - The playable online game
-<br>[Ludum Dare entry](https://ldjam.com/events/ludum-dare/40/games) - Coming soon
+<br>[Ludum Dare entry](https://goo.gl/LuqomU) - The original LD submission
 
 ## Legal
 This game is licensed under the [Cameron Samuels License](LICENSE).
