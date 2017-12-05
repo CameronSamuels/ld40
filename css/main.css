@@ -10,6 +10,11 @@ canvas {
 	background: #000;
 	width: 100vw;
 	max-width: 100vh;
+	position: absolute;
 	margin: auto;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
 	display: block;
 }
