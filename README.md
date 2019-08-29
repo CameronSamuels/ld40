@@ -33,9 +33,8 @@ who happened to be only able to cook burgers (even for breakfast).
 - [GitHub Pages](https://github.io) - hosting
 
 ## Links
-[Game (web)](https://cameronsamuels.com/ld40) - The playable online game
 <br>[Ludum Dare entry](https://goo.gl/LuqomU) - The original LD submission
 
 ## Legal
-This game is licensed under the [Cameron Samuels License](LICENSE).
+This game is licensed under the [MIT License](LICENSE).
 Please use this software correctly under the terms of the license.
